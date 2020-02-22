@@ -1,0 +1,5 @@
+app-text/ghostscript-gpl cups
+app-text/xmlto text
+dev-libs/libxml2 python
+app-crypt/pinentry gnome-keyring
+

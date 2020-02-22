@@ -1,0 +1,8 @@
+www-client/firefox hwaccel jack clang lto startup-notification
+
+x11-base/xorg-server xvfb
+dev-lang/python sqlite
+media-libs/libpng apng
+media-libs/libvpx postproc
+dev-db/sqlite secure-delete
+
